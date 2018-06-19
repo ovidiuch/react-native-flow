@@ -1,0 +1,14 @@
+{
+  "name": "react-native-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/skidding/react-native-flow.git",
+  "author": "Ovidiu Cherecheș <skidding@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.55.4"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.74.0"
+  }
+}
